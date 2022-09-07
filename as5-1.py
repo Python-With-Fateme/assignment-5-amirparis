@@ -1,1 +1,3 @@
-# fact 6 = 6*5*4*3*2*1
+a=input('entet ur number : ')
+b=len(a)
+print(b)
