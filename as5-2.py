@@ -1,12 +1,11 @@
 while True :
+    number1=float(input('entrt your first number : '))
+    number2=float(input('enter your second number :'))
 
-    num1=float(input('entrt your first number : '))
-    num2=float(input('enter your second number :'))
-
-    if num1==0 and num2==0 :
+    if number1==0 and number2==0 :
         break 
     
-    if num1>num2 :
+    if number1>number2 :
         print('fisrt number is bigger ')
 
     else :
